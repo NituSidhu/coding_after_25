@@ -1,5 +1,3 @@
-# coding_after_25
-
 ## 2019 Insights on Learning to Code Python after 25"
 StackOverflow just released their annual survey and it goes over a lot of information in which nearly 90,000 developers told them how they learn and level up, which tools they’re using, and what they want.
 
